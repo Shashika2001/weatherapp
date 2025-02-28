@@ -1,2 +1,2 @@
 ﻿# weatherapp
- #add new pill request
+ #add new pull request
